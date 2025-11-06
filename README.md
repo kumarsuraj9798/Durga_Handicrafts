@@ -1,1 +1,0 @@
-# Durga_Handicrafts

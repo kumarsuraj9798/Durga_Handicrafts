@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-dark-bg { background-color: #232020; }
+.text-text-light { color: #dfd7e8; }
+.text-wood-accent { color: #c69c6d; }
+.border-wood-accent { border-color: #c69c6d; }
